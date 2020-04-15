@@ -7,7 +7,7 @@ https://elmas3.github.io/mao-seminar/
 真央教授
 エルます
 わかば
-ore
+ore２
 
 # ディレクトリ構成
 ```
